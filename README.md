@@ -1,7 +1,5 @@
 # Line Following Robot
-![GitHub forks](https://img.shields.io/github/forks/rawkush/line_following_robot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/rawkush/line_Following_robot?style=social) <br/>
-![ViewCount](https://views.whatilearened.today/views/github/rawkush/line_following_robot.svg)
+
 Line follower is an autonomous robot which follows either black line in white are or white line in black area. Robot must be able to detect particular line and keep following it.
 
 # LFR
@@ -40,3 +38,4 @@ Line follower is an autonomous robot which follows either black line in white ar
 # How to use
 
 Burn the code into arduino and make connection according to the code or just make your connection and change the pin number in the code
+
